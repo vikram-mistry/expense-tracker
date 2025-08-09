@@ -8,6 +8,9 @@ Data is stored in a local JSON file.
 - View all expenses with timestamps
 - Calculate total spending
 
+## Screenshot
+![Expense Tracker CLI Example](https://raw.githubusercontent.com/vikram-mistry/expense-tracker/main/Screenshot.png)
+
 ## How to Run
 ```bash
 python3 expense_tracker.py
@@ -20,5 +23,3 @@ Enter description: Coffee
 Enter amount: ₹50
 ✅ Added: Coffee - ₹50
 
-## Screenshot
-![Expense Tracker CLI Example](https://raw.githubusercontent.com/vikram-mistry/expense-tracker/main/Screenshot.png)
