@@ -21,4 +21,4 @@ Enter amount: ₹50
 ✅ Added: Coffee - ₹50
 
 ## Screenshot
-![Expense Tracker CLI Example](Screenshot.png)
+![Expense Tracker CLI Example](https://raw.githubusercontent.com/vikram-mistry/expense-tracker/main/Screenshot.png)
