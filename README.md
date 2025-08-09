@@ -19,3 +19,6 @@ Choose an option: 1
 Enter description: Coffee
 Enter amount: ₹50
 ✅ Added: Coffee - ₹50
+
+## Screenshot
+![Expense Tracker CLI Example](Screenshot.png)
